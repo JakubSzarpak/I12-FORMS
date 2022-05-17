@@ -1,0 +1,161 @@
+body {
+	background: #adadad;
+	color: white;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	vertical-align: middle;
+}
+
+select {
+	width: 200px;
+}
+
+footer {
+	background-color: rebeccapurple;
+	font-size: 25px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: center;
+	position: absolute;
+    bottom:2%;
+    width:40%;
+	left: 30%;
+}
+
+.container {
+	height: auto;
+}
+
+.NAGLOWEK1 {
+	background-color: rebeccapurple;
+	width: 15%;
+	float: left;
+	font-size: 25px;
+	text-align: right;
+	height: 37px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	margin-top: 20px;
+	
+}
+
+.NAGLOWEK2 {
+	background-color: rebeccapurple;
+	width: 85%;;
+	float: left;
+	height: 37px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	margin-top: 20px;
+}
+
+.form1 {
+	background-color: whitesmoke;
+	float: right;
+	border-radius: 25px;
+	margin: 3px;
+	padding: 4px;
+	text-decoration: none;
+	border: 1px solid rgb(255, 0, 0);
+	margin-right: 30px;
+}
+
+.form2 {
+	background-color: whitesmoke;
+	float: right;
+	border-radius: 25px;
+	margin: 3px;
+	padding: 4px;
+	text-decoration: none;
+	border: 1px solid rgb(255, 0, 0);
+	margin-right: 30px;
+	
+}
+
+.tablenborder {
+	margin: 0 auto;
+	
+}
+
+.radio {
+	text-align: left;
+	margin-left: 40px;
+	float: left;
+}
+
+.buttons {
+	background-color: rebeccapurple;
+	border-radius: 25px;
+	margin: auto auto 2px auto;
+	padding: 8px;
+	width: 90px;
+	margin-bottom: 10px;
+}
+
+.curve-text {
+	border-radius: 25px;
+	border: 1px solid white;
+}
+
+.curve-textarea {
+	border-radius: 25px;
+	padding: 10px;
+	border: 1px solid rgb(0, 0, 0);
+}
+
+.b1 {
+	font-size: 25px;
+}
+
+.b2 {
+	font-size: 20px;
+}
+
+.SLIDER {
+  width: 100%;
+  height: 15px;
+  border-radius: 25px;  
+  background: #d3d3d3;
+  outline: none;
+}
+
+.legend {
+	border-radius: 25px; 
+	border: 2px solid rgb(0, 0, 0);
+	margin: auto auto auto 0px;
+	padding: 3px;
+
+}
+
+.fieldset {
+	padding: 4px;
+	margin: auto auto auto 0px;
+	float: left;
+}
+
+.left {
+	margin: auto 5px auto auto;
+	border-radius: 25px;
+	border: 2px solid rgb(0, 0, 0);
+	top: 50%;
+	left: 50%;
+}
+
+.TABELARAMKA {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+#border1 {
+	border: 3px double rebeccapurple;
+	padding: 4px;
+	margin: auto auto auto 0px;
+	float: left;
+	height: 90px;
+}
+
+#border2 {
+	border: 3px double rebeccapurple;
+	padding: 5px;
+	margin: auto auto auto 0px;
+	float: left;
+	height: 40px;
+	margin-bottom: 20px;
+}
